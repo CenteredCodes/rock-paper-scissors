@@ -1,0 +1,33 @@
+body {
+    background-color: green;
+    display: flex;
+    flex-direction: column;
+}
+
+
+button {
+    font-size: 100px; 
+}
+
+#main {
+    font-size: 50px;
+    text-align: center;
+    width: auto;
+    height: auto;
+  align-self: center;
+  margin: 150px;
+background-color: blue;
+}
+
+#btns {
+    background-color: brown;
+    width: auto;
+    height: auto;
+    padding: 75px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+ 
+}
